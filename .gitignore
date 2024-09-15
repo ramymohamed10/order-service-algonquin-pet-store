@@ -11,7 +11,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Ignore environment files
-.env
 .env.*.local
 
 # Ignore test result directories
